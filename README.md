@@ -29,7 +29,7 @@ I’m eager to improve my skills, work on real-world projects, and contribute to
 
 
 #### 🧰 Tools  
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify) ![Heroku](https://skillicons.dev/icons?i=heroku) ![JSON](https://skillicons.dev/icons?i=json)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Netlify](https://skillicons.dev/icons?i=netlify) ![Heroku](https://skillicons.dev/icons?i=heroku) 
 ---
 
 ### 📢 Let's Connect

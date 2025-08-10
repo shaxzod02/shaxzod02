@@ -34,7 +34,7 @@ I’m eager to improve my skills, work on real-world projects, and contribute to
 
 ### 📢 Let's Connect
 
-- 🌐 [Blog:]()  
+- 🌐 [Blog]()  
 - 📧 [Email me](shahzodohunjon@gmail.com)  
 
 ---

@@ -41,7 +41,7 @@ I enjoy contributing to the tech community through open-source projects, blog po
 
 ### 📢 Let's Connect
 
-- 🌐 [Blog: Sukhrob's I/O]()  
+- 🌐 [Blog:]()  
 - 📧 [Email me](shahzodohunjon@gmail.com)  
 
 ---

@@ -9,7 +9,7 @@
 
 ### 💻 About Me
 
-I'm an enthusiastic Junior Software Developer with hands-on experience creating small to medium web applications.
+I'm an enthusiastic Junior Software Engineer with hands-on experience creating small to medium web applications.
 I focus on writing clean and maintainable code while learning modern technologies and best practices.
 I’m eager to improve my skills, work on real-world projects, and contribute to the tech community by sharing what I learn through open-source projects and online content.
 

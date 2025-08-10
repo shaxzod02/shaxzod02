@@ -9,10 +9,9 @@
 
 ### 💻 About Me
 
-I'm a passionate **Software Engineer** with over 3 years of experience building modern web apps. I focus on performance, clean architecture, and creating smooth user experiences using cutting-edge technologies.  
-I enjoy contributing to the tech community through open-source projects, blog posts, and educational videos.
-
-<img src="https://img.shields.io/badge/building-8A2BE2" alt="building"/>
+I'm an enthusiastic Junior Software Developer with hands-on experience creating small to medium web applications.
+I focus on writing clean and maintainable code while learning modern technologies and best practices.
+I’m eager to improve my skills, work on real-world projects, and contribute to the tech community by sharing what I learn through open-source projects and online content.
 
 
 

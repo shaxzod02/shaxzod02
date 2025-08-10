@@ -13,9 +13,7 @@ I'm a passionate **Software Engineer** with over 3 years of experience building 
 I enjoy contributing to the tech community through open-source projects, blog posts, and educational videos.
 
 <img src="https://img.shields.io/badge/building-8A2BE2" alt="building"/>
-<p align="center">
-  I am building <a href="https://www.uzsummarize.uz/en">UzSummarize</a>
-</p>
+
 
 
 ---
@@ -26,12 +24,8 @@ I enjoy contributing to the tech community through open-source projects, blog po
 ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Sass](https://skillicons.dev/icons?i=sass) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Vite](https://skillicons.dev/icons?i=vite) ![Redux](https://skillicons.dev/icons?i=redux) ![Zustand](https://img.shields.io/badge/Zustand-%23121011.svg?style=for-the-badge&logo=zustand&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23202529.svg?style=for-the-badge&logo=react&logoColor=white)
 
 #### 🛠 Backend & Cloud  
-  #### 🛠 Backend & Cloud  
-![Python](https://skillicons.dev/icons?i=python)
-![Go](https://skillicons.dev/icons?i=go) 
-![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%230074D9.svg?style=for-the-badge&logo=database&logoColor=white)  
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)  
+![Python](https://skillicons.dev/icons?i=python) ![Go](https://skillicons.dev/icons?i=go) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%230074D9.svg?style=for-the-badge&logo=database&logoColor=white)  
+  
 
 
 #### 🧰 Tools  
